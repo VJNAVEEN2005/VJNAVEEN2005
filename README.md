@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/naveen-velmourougane-49742a263/)
 - 😄 Pronouns: VJ
 - ⚡ Fun fact: I know Editing
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCoFpSaAku4tUmqEuc1Hj70g?link=https%3A%2F%2Fwww.youtube.com%2F%40vjntech2005)
+- [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCoFpSaAku4tUmqEuc1Hj70g?link=https%3A%2F%2Fwww.youtube.com%2F%40vjntech2005)](https://www.youtube.com/@vjntech2005)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/> 
