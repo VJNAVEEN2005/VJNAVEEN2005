@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Naveen
 
-####Time to start ==CODE== ~<img width="24" height="24" src="https://img.icons8.com/material-outlined/24/code.png" alt="code"/>~
+####Time to start ==CODE== 
 
 
 <!--
