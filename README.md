@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Naveen
 
-<img align="right" width="370" height="370" src="https://i.pinimg.com/564x/42/8a/84/428a842973de218b0e73a00c2ac152d8.jpg"/>
+<img align="right" width="370" height="370" style="border-radius: 25px" src="https://i.pinimg.com/564x/42/8a/84/428a842973de218b0e73a00c2ac152d8.jpg"/>
 
 ### Time to start CODE
 
