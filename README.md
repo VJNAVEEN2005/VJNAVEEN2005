@@ -1,8 +1,10 @@
 ## Hi there 👋 It's me Naveen
 
-### Time to start ==CODE==
+<img align="right" width="370" height="290" src="https://i.pinimg.com/564x/55/39/8b/55398b80d2b3d3e43327a1626013d14e.jpg"/>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/564x/90/44/a6/9044a634e09b2a633ff73efad0fdf470.jpg"/>
+### Time to start CODE
+
+
 
 <!--
 **VJNAVEEN2005/VJNAVEEN2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
