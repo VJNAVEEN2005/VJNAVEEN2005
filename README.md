@@ -1,6 +1,8 @@
 ## Hi there 👋 It's me Naveen
 
-Software Developer
+####Time to start ==CODE== <img width="24" height="24" src="https://img.icons8.com/material-outlined/24/code.png" alt="code"/>
+
+
 <!--
 **VJNAVEEN2005/VJNAVEEN2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
