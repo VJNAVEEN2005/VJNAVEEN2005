@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/> 
 
 ### My Project
-- [<img height="25" width="25" src="https://raw.githubusercontent.com/VJNAVEEN2005/ptu_cgpa_html/main/icone.png" /> CGPA Calculator](https://vjnaveen2005.github.io/ptu_cgpa_html/)
+- [CGPA Calculator <img height="25" width="25" src="https://raw.githubusercontent.com/VJNAVEEN2005/ptu_cgpa_html/main/icone.png" /> ](https://vjnaveen2005.github.io/ptu_cgpa_html/)
 
 ![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=VJNAVEEN2005&theme=dark&show_icons=true&&hide=issues,contribs)
 
