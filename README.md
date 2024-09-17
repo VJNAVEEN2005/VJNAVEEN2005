@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Naveen
 
-### Time to start CODE
+### Time to start ==CODE==
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/564x/90/44/a6/9044a634e09b2a633ff73efad0fdf470.jpg"/>
 
