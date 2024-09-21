@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Here's my [portfolie](https://github.com/VJNAVEEN2005)
-- 🌱 I’m currently learning ==React Native==
+- 🌱 I’m currently learning React Native
 - 💬 Ask me about Tech
 - 📫 How to reach me: 
 <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/naveen-velmourougane-49742a263/)
