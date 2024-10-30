@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Here's my [portfolio](https://github.com/VJNAVEEN2005)
+- 🔭 Here's my [portfolio]([https://github.com/VJNAVEEN2005](https://vjnaveen-portfolio.web.app/))
 - 🌱 I’m currently learning Flutter 
 - 💬 Ask me about Tech
 - 📫 How to reach me: 
