@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Here's my [portfolio]([https://vjnaveen-portfolio.web.app/])
+- 🔭 Here's my [portfolio](https://vjnaveen-portfolio.web.app/)
 - 🌱 I’m currently learning Flutter 
 - 💬 Ask me about Tech
 - 📫 How to reach me: 
 <br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/naveen-velmourougane-49742a263/)
-- 😄 Pronouns: VJ
 - ⚡ Fun fact: I know Editing
 - [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCoFpSaAku4tUmqEuc1Hj70g?link=https%3A%2F%2Fwww.youtube.com%2F%40vjntech2005)](https://www.youtube.com/@vjntech2005)
 
